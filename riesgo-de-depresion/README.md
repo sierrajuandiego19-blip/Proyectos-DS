@@ -36,7 +36,7 @@ El dataset utilizado, **Teen Mental Health Dataset**, fue obtenido de Kaggle [1]
 ## 📂 Estructura del Proyecto
 
 ```text
-Py1/
+Proyectos-DataScience/riesgo-de-depresion/
 ├── Data/
 │   ├── processed.csv
 │   └── raw/
@@ -78,8 +78,8 @@ Py1/
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/sierrajuandiego19-blip/Py1.git
-cd Py1
+git clone https://github.com/sierrajuandiego19-blip/Proyectos-DataScience.git
+cd Proyectos-DataScience/riesgo-de-depresion
 
 # 2. Crea el entorno virtual e instala dependencias
 uv sync
